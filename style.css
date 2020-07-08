@@ -9,6 +9,12 @@ body {
   padding: 20px 200px 0px 360px;
 }
 
+.nav-item {
+  padding-right: 20px;
+}
+.nav-link {
+  color: red;
+}
 .e-school-logo {
   width: 200px;
 }
@@ -61,11 +67,19 @@ body {
   box-shadow: 5px 5px 10px lightgrey;
   background-color: white;
 }
+.card-footer {
+  text-align: center;
+  border-style: none;
+  border-color: white;
+}
 .card-footer-img {
   width: 20px;
 }
 .card-body-footer {
   text-align: left;
+}
+.card-footer-2 {
+  padding-left: 30px;
 }
 .btn-footer {
   margin-top: 25px;
